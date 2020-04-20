@@ -1,8 +1,6 @@
-# Datasets
-Since the dataset is too large, I'm giving you the links to the datasets which are in the Udacity's workspace.
+# IDEA Algorithm
+Implementation of IDEA algorithm using VHDL
 
-Dog Images:
-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
-
-Human Images:
-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+1.Direct implementation
+2.Resource Scheduling 1
+3.Resource Scheduling 2
